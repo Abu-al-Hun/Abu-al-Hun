@@ -1,5 +1,9 @@
 <!-- Markdown -->
 <h1 align="center">Hi 👋, I'm Abu al-Hun</h1>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1111591958889119865/1252197640276283453/Python.svg.png?ex=6671576e&is=667005ee&hm=6584c9a19a23d5064d19f5909791abefeb2af31e1574e5d77b8b23be2004732f" alt="Python Logo" width="200"/>
+</p>
+
 <h3 align="center">Discord bot developer</h3>
 
 - 🔭 I’m currently working on [Discord bot](https://discord.gg/WJk4gJeDtB)
