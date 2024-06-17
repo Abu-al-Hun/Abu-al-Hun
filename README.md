@@ -1,10 +1,8 @@
 <!-- Markdown -->
 # Hi 👋, I'm Abu al-Hun
-
 <p align="center">
-  <img src="[[https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif](https://cdn.discordapp.com/attachments/1111591958889119865/1248679182771425280/1698078678878.jpg?ex=667110dc&is=666fbf5c&hm=6044c6ce3ed749815a75e23a57d08c7944531230e0152df9af970139692ad27e&](https://cdn.discordapp.com/attachments/1111591958889119865/1252197640276283453/Python.svg.png?ex=6671576e&is=667005ee&hm=6584c9a19a23d5064d19f5909791abefeb2af31e1574e5d77b8b23be2004732f&))" alt="animated" />
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="animated" />
 </p>
-
 
 ### Discord bot developer
 
