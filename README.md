@@ -27,8 +27,6 @@
 
 - 🌱 I’m currently learning **Yes, learn to increase experience**
 
-- 🤝 I’m looking for help with [You can request assistance according to the announced languages](https://discord.gg/WJk4gJeDtB)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Abu-al-Hun](https://github.com/Abu-al-Hun)
 
 - 📫 How to reach me **hanysamer1911@gmail.com**
