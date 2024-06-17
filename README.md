@@ -36,14 +36,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <a href="https://github.com/wickstudio"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/officialwickstudio"><img src="https://imgur.com/n2oyhCP.png" alt="Instagram" /></a>
-  <a href="https://www.npmjs.com/~wick_studio"><img src="https://imgur.com/rVt9huZ.png" alt="NPM" /></a>
-  <a href="https://replit.com/@wickstudio"><img src="https://imgur.com/RkgoVR3.png" alt="Replit" /></a>
-  <a href="https://t.me/wickdev"><img src="https://imgur.com/6Y6wmmg.png" alt="Telegram" /></a>
-  <a href="https://x.com/Wick__Studio"><img src="https://imgur.com/1jPpy8l.png" alt="X / Twitter" /></a>
-  <a href="https://www.youtube.com/@wick_studio"><img src="https://imgur.com/uYQleGv.png" alt="Youtube" /></a>
-  <a href="https://discord.gg/wicks"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
-</div>
 
