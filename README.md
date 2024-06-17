@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abu al-Hun</h1>
-<h3 align="center">Discord bot developer</h3>
+<h3 align="center">Bot developer</h3>
 
 <div align="center">
   <img src="https://imgur.com/KEjLMbm.png" alt="C#" />
