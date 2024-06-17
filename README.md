@@ -4,7 +4,7 @@
   <img src="https://media.discordapp.net/attachments/1111591958889119865/1248679182771425280/1698078678878.jpg?ex=667110dc&is=666fbf5c&hm=6044c6ce3ed749815a75e23a57d08c7944531230e0152df9af970139692ad27e&=&format=webp&width=662&height=662" alt="Python Logo" width="200"/>
 </p>
 
-<h3 align="center">Discord bot developer</h3>
+<h3 align="center">Developer bots</h3>
 
 - 🔭 I’m currently working on [Discord bot](https://discord.gg/WJk4gJeDtB)
 - 🌱 I’m currently learning **Yes, learn to increase experience**
