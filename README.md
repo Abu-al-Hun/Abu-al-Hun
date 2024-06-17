@@ -7,17 +7,11 @@
 <h3 align="center">Bot developer</h3>
 
 <div align="center">
-  <img src="https://imgur.com/KEjLMbm.png" alt="C#" />
-  <img src="https://imgur.com/M7clnGu.png" alt="C++" />
   <img src="https://imgur.com/OVq7WwF.png" alt="Python" />
-  <img src="https://imgur.com/3KvfKeH.png" alt="HTML" />
-  <img src="https://imgur.com/JncbSGq.png" alt="CSS" />
-  <img src="https://imgur.com/zw93EwM.png" alt="TypeScript" />
   <img src="https://imgur.com/J6J18Oq.png" alt="Javascript" />
   <img src="https://imgur.com/am2M8Sr.png " alt="GitHub" />
   <img src="https://imgur.com/23o6vBG.png" alt="Git" />
   <img src="https://imgur.com/5GBBmDh.png" alt="Visual Studio Code" />
-  <img src="https://imgur.com/7RTXlBW.png" alt="Shell" />
 </div>
 
 
