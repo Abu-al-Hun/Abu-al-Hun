@@ -29,8 +29,8 @@
 
 - 📫 How to reach me **hanysamer1911@gmail.com**
 
-I Speak Arabic
-
+Hello, I'm Abu al-Hun!
+I Speak Arabic, English
 📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
