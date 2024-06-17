@@ -21,11 +21,6 @@
 </div>
 
 
-Hello, I'm Abu al-Hun
-I Speak Arabic, English, and Turkish
-
-📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
-
 - 🔭 I’m currently working on [Discord bot](https://discord.gg/WJk4gJeDtB)
 
 - 🌱 I’m currently learning **Yes, learn to increase experience**
@@ -34,6 +29,9 @@ I Speak Arabic, English, and Turkish
 
 - 📫 How to reach me **hanysamer1911@gmail.com**
 
+I Speak Arabic
+
+📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/WJk4gJeDtB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WJk4gJeDtB" height="30" width="40" /></a>
