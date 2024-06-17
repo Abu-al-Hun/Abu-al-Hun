@@ -31,7 +31,9 @@
 
 Hello, I'm Abu al-Hun!
 I Speak Arabic, English
+
 📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/WJk4gJeDtB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WJk4gJeDtB" height="30" width="40" /></a>
