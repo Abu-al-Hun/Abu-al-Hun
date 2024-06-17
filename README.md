@@ -36,4 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+<div align="center">
+  <a href="https://github.com/Abu-al-Hun"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
+  <a href="https://replit.com/@HanySamer"><img src="https://imgur.com/RkgoVR3.png" alt="Replit" /></a>
+  <a href="https://discord.gg/WJk4gJeDtB"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
