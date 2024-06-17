@@ -21,7 +21,10 @@
 </div>
 
 
+Hello, I'm Abu al-Hun
+I Speak Arabic, English, and Turkish
 
+📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
 
 - 🔭 I’m currently working on [Discord bot](https://discord.gg/WJk4gJeDtB)
 
