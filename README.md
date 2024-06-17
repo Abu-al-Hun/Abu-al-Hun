@@ -1,8 +1,10 @@
 <!-- Markdown -->
 # Hi 👋, I'm Abu al-Hun
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="animated" />
 </p>
+
 
 ### Discord bot developer
 
