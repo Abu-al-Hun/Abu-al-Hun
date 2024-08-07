@@ -15,7 +15,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Discord bot](https://discord.gg/WJk4gJeDtB)
+- 🔭 I’m currently working on [Discord bot](https://discord.gg/KGq58mtTv3)
 
 - 🌱 I’m currently learning **Yes, learn to increase experience**
 
@@ -39,4 +39,4 @@ I Speak Arabic, English
 <div align="center">
   <a href="https://github.com/Abu-al-Hun"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
   <a href="https://replit.com/@HanySamer"><img src="https://imgur.com/RkgoVR3.png" alt="Replit" /></a>
-  <a href="https://discord.gg/WJk4gJeDtB"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
+  <a href="https://discord.gg/KGq58mtTv3"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
