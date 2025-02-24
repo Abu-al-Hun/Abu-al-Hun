@@ -3,7 +3,7 @@ Bot Developer
 I’m currently working on Discord bot
 I’m currently learning to increase my experience
 All of my projects are available on GitHub
-How to reach me: hanysamer1911@gmail.com
+How to reach me: abualhun@wick-studio.com
 Hello, I'm Abu al-Hun!
 I speak Arabic and English.
 
