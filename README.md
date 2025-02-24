@@ -11,10 +11,14 @@ Editor | Scripter | Error Solver | Photoshopper | Gamer
 
 Connect with me:
 Discord Server
-GitHub
-Gist GitHub
+GitHub Profile
+GitHub Gist
 Portfolio Website
 Online Shop
 Languages and Tools:
 JavaScript
 Python
+Other Links:
+GitHub
+Replit
+Discord
