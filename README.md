@@ -6,15 +6,30 @@ All my projects are available on GitHub
 Contact me: abualhun@wick-studio.com
 I speak Arabic and English.
 Editor | Scripter | Error Solver | Photoshopper | Gamer
-Connect with me:
+
+## 🚀 Current Projects
+- Discord Bot Development
+- Web Development with JavaScript
+- Python Automation Scripts
+
+## 📫 Connect with me:
 GitHub: https://github.com/Abu-al-Hun
 GitHub Gist: https://gist.github.com/Abu-al-Hun
 Website: https://abualhun.netlify.app/
 Online Shop: https://abualhun-shop.netlify.app/
-Languages and Tools:
-JavaScript
-Python
+
+## 💻 Languages and Tools:
+- JavaScript
+- Python
+- HTML/CSS
+- Node.js
+
+## 🎯 GitHub Goals
+- Earn Pull Shark badge 🦈
+- Achieve Pair Extraordinaire badge 👥
+- Get Galaxy Brain badge 🧠
+
 Other Links:
 GitHub: https://github.com/Abu-al-Hun
 
-<!-- Test change for Pull Request -->
+<!-- Updated for new Pull Request to earn badges -->
