@@ -215,10 +215,8 @@ FORKS: 35
 <div align="center">
   
 ```yaml
-📧 Business Inquiries: abualhun@wick-studio.com
-💬 Discord: Abu Al-Hun#1234
+💬 Discord: Abu Al-Hun#
 🌐 Portfolio: abualhun.netlify.app
-📦 Shop: abualhun-shop.netlify.app
 ```
 
 </div>
