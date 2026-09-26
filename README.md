@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Discord+Bot+Developer;Automation+Expert;Code+Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Discord+Bot+Developer;Telegram+Bot+Developer;Web+Developer;Automation+Expert" />
 
 <br>
 
@@ -39,11 +39,10 @@
 ```diff
 + ┌─────────────────────────────────────────────────────────────┐
 + │                                                             │
-+ │   I don't just write code.                                  │
-+ │   I architect digital ecosystems.                           │
++ │   I build bots. I build websites.                           │
++ │   I automate what should never be done manually.            │
 + │                                                             │
-+ │   Every bot, every script, every automation —               │
-+ │   built with precision, scaled with purpose.                │
++ │   Discord Bots  •  Telegram Bots  •  Websites               │
 + │                                                             │
 + │   From concept to deployment. From idea to impact.          │
 + │                                                             │
@@ -78,9 +77,13 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark&perline=5" />
 
-### 🧰 Frameworks & Runtime
+### 🤖 Bots & Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,discordjs,bootstrap&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,py&theme=dark&perline=4" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=4" />
 
 ### 🗄️ Data & Storage
 
@@ -90,9 +93,9 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark&perline=5" />
 
-### 🎨 Design & Deploy
+### 🚀 Deployment
 
-<img src="https://skillicons.dev/icons?i=photoshop,figma,netlify,vercel,heroku&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=netlify,vercel,heroku,cloudflare&theme=dark&perline=4" />
 
 </div>
 
@@ -172,7 +175,7 @@
 
 <div align="center">
 
-## 🚀 Featured Work
+## 🚀 What I Build
 
 </div>
 
@@ -180,56 +183,56 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Discord Mod Bot
+### 🤖 Discord Bots
 
 ```yaml
-Stack:  Discord.js, MongoDB
-Status: 🟢 Active
+Stack:  Discord.js, Node.js
+Type:   Moderation, Utility, Fun
 Uptime: 99.9%
 ```
 
-> Full-featured moderation suite with auto-mod, advanced logging, ticket system, and role management.
+> Custom Discord bots — moderation, tickets, logging, auto-roles, music, games, and anything your server needs.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Game Stats Tracker
+### 📨 Telegram Bots
 
 ```yaml
-Stack:  Python, REST API
-Status: 🟢 Active
-Users:  1K+
+Stack:  Python, Telegram API
+Type:   Automation, Security, Utility
+Speed:  Real-time
 ```
 
-> Real-time game statistics with leaderboards, player profiles, and match history tracking.
+> Telegram bots for automation, security monitoring, auto-replies, broadcasting, and custom workflows.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 E-commerce Platform
+### 🌐 Websites
 
 ```yaml
-Stack:  Node.js, Express
-Status: 🟡 Beta
-Scale:  Scalable
+Stack:  HTML, CSS, JavaScript, React
+Type:   Portfolios, Landing Pages, Dashboards
+Design: Responsive
 ```
 
-> Complete commerce solution with payments, inventory management, and user authentication.
+> Modern, fast, and responsive websites — from simple landing pages to full-featured web applications.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics Dashboard
+### ⚙️ Automation Scripts
 
 ```yaml
-Stack:  React, Chart.js
-Status: 🔵 Planning
-Type:   Data Viz
+Stack:  Python, Node.js
+Type:   Task Automation, APIs, Scrapers
+Goal:   Save Time & Resources
 ```
 
-> Interactive analytics platform with real-time charts, custom reports, and data export.
+> Custom automation scripts that handle repetitive tasks, integrate APIs, and keep your workflow running smoothly.
 
 </td>
 </tr>
@@ -253,11 +256,12 @@ Type:   Data Viz
 
 <div align="center">
 
-| 🎨 **Design** | 🏗️ **Build** | 🚀 **Deploy** | 📈 **Scale** |
-|:-------------:|:------------:|:-------------:|:------------:|
-| Clean UI/UX | Robust architecture | Zero-downtime | Horizontal growth |
-| Pixel-perfect | Tested code | Auto CI/CD | Load balanced |
-| Accessible | Documented | Monitored 24/7 | Cost optimized |
+| 🤖 **Discord Bots** | 📨 **Telegram Bots** | 🌐 **Websites** | ⚙️ **Automation** |
+|:-------------------:|:--------------------:|:---------------:|:-----------------:|
+| Moderation & Utility | Security & Monitoring | Landing Pages | Task Scripts |
+| Tickets & Logging | Auto-reply & Broadcast | Portfolios | API Integrations |
+| Music & Games | Custom Workflows | Dashboards | Data Scraping |
+| Auto-roles & More | Real-time Alerts | Responsive Design | Scheduled Jobs |
 
 </div>
 
@@ -274,9 +278,9 @@ Type:   Data Viz
 ```text
 JavaScript  ████████████████████████░░░░░░░░   45%
 Python      ███████████████░░░░░░░░░░░░░░░░░   28%
-JSON/YAML   ███████░░░░░░░░░░░░░░░░░░░░░░░░░   12%
-HTML/CSS    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
-Other       ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5%
+HTML/CSS    ███████░░░░░░░░░░░░░░░░░░░░░░░░░   15%
+JSON/YAML   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
+Other       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2%
 ```
 
 </div>
@@ -298,8 +302,18 @@ Other       ███░░░░░░░░░░░░░░░░░░░�
 <th>Availability</th>
 </tr>
 <tr>
-<td align="center">🤖 <b>Custom Discord Bots</b></td>
-<td>Tailored solutions built for your community's unique needs</td>
+<td align="center">🤖 <b>Discord Bots</b></td>
+<td>Custom Discord bots built for your server's unique needs</td>
+<td align="center">🟢 Open</td>
+</tr>
+<tr>
+<td align="center">📨 <b>Telegram Bots</b></td>
+<td>Automation, security, and utility bots for Telegram</td>
+<td align="center">🟢 Open</td>
+</tr>
+<tr>
+<td align="center">🌐 <b>Website Development</b></td>
+<td>Modern, responsive websites and web apps</td>
 <td align="center">🟢 Open</td>
 </tr>
 <tr>
@@ -308,14 +322,9 @@ Other       ███░░░░░░░░░░░░░░░░░░░�
 <td align="center">🟢 Open</td>
 </tr>
 <tr>
-<td align="center">🧠 <b>Bot Consultation</b></td>
-<td>Expert advice, architecture planning, and strategy</td>
+<td align="center">🧠 <b>Consultation</b></td>
+<td>Expert advice and planning for your project</td>
 <td align="center">🟡 Limited</td>
-</tr>
-<tr>
-<td align="center">🔍 <b>Code Review</b></td>
-<td>Quality assurance and performance optimization</td>
-<td align="center">🔴 Closed</td>
 </tr>
 </table>
 
@@ -403,8 +412,7 @@ Other       ███░░░░░░░░░░░░░░░░░░░�
 <br>
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Website-00F3FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" />
 
@@ -426,7 +434,7 @@ Other       ███░░░░░░░░░░░░░░░░░░░�
 
 ## © 2026 Abu Al-Hun — All Rights Reserved
 
-**Architect of Bots. Automator of Workflows. Builder of Things That Matter.**
+**Discord Bot Developer. Telegram Bot Developer. Web Developer. Automator.**
 
 **Active Years: 2023 – 2026**
 
