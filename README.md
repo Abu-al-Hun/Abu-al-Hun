@@ -1,26 +1,27 @@
-```markdown
-  
 # ⚡ Abu Al-Hun ⚡
 
 ### *Discord Bot Developer | Automation Expert | Code Architect*
 
-## 🎯 **Executive Summary**
+---
 
-  
-#+ Professional Bot Developer with 3+ years of experience
-#+ Specialized in Discord.js, Python, and Automation
-#+ Built 10+ production-ready Discord bots
-#+ Contributed to 5+ open-source projects
-#+ 99.9% uptime guaranteed on all deployed bots
+## 🎯 Executive Summary
 
+```yaml
+Professional Bot Developer with 3+ years of experience
+Specialized in Discord.js, Python, and Automation
+Built 10+ production-ready Discord bots
+Contributed to 5+ open-source projects
+99.9% uptime guaranteed on all deployed bots
+Active Years: 2023 – 2026
 ```
+
 <br>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 👨‍💻 **About Me**
+### 👨‍💻 About Me
 
 ```python
 #!/usr/bin/python
@@ -31,6 +32,7 @@ class BotDeveloper:
         self.name = "Abu Al-Hun"
         self.role = "Senior Bot Developer"
         self.experience = "3+ Years"
+        self.active_years = "2023 – 2026"
         self.location = "🌍 Remote"
         
     def skills(self):
@@ -45,12 +47,13 @@ class BotDeveloper:
         return "Building scalable Discord bot architectures"
 ```
 
-\n
+</td>
 <td width="50%">
 
-### 📊 **Quick Stats**
+### 📊 Quick Stats
 
 ```yaml
+ACTIVE_YEARS: 2023 – 2026
 COMMITS: 500+
 REPOS: 25
 PROJECTS: 12
@@ -58,21 +61,21 @@ STARS: 150+
 FORKS: 35
 ```
 
-### 🎯 **Core Competencies**
+### 🎯 Core Competencies
 
-- 🚀 **Bot Development** - Expert Level
-- 🤖 **Automation** - Advanced Level  
-- 🐍 **Python Scripting** - Advanced Level
-- 💻 **JavaScript** - Expert Level
-- 🎨 **UI/UX Design** - Intermediate Level
+- 🚀 **Bot Development** — Expert Level
+- 🤖 **Automation** — Advanced Level
+- 🐍 **Python Scripting** — Advanced Level
+- 💻 **JavaScript** — Expert Level
+- 🎨 **UI/UX Design** — Intermediate Level
 
-\n
+</td>
 </tr>
 </table>
 
 ---
 
-## 🔥 **Featured Projects**
+## 🔥 Featured Projects
 
 <div align="center">
 
@@ -88,7 +91,7 @@ FORKS: 35
 <br>
 
 <div align="center">
-  
+
 <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
 
@@ -96,11 +99,11 @@ FORKS: 35
 
 ---
 
-## 💻 **Technical Arsenal**
+## 💻 Technical Arsenal
 
 <div align="center">
 
-### **Programming Languages**
+### Programming Languages
 
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -108,21 +111,21 @@ FORKS: 35
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
 
-### **Frameworks & Libraries**
+### Frameworks & Libraries
 
 <img src="https://img.shields.io/badge/Discord.js-20232A?style=for-the-badge&logo=discord&logoColor=5865F2" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 
-### **Databases & Tools**
+### Databases & Tools
 
 <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
-### **Design & Deployment**
+### Design & Deployment
 
 <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 <img src="https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
@@ -133,7 +136,7 @@ FORKS: 35
 
 ---
 
-## 📈 **Performance Metrics**
+## 📈 Performance Metrics
 
 <div align="center">
 
@@ -149,7 +152,7 @@ FORKS: 35
 
 ---
 
-## 🏆 **Achievements & Certifications**
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
@@ -166,13 +169,13 @@ FORKS: 35
 | **GitHub Arctic Code Vault** | 2023 | <img src="https://img.shields.io/badge/View-0A66C2?style=flat-square&logo=github&logoColor=white" /> |
 | **Hackathon Winner 2023** | Nov 2023 | <img src="https://img.shields.io/badge/Certificate-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" /> |
 | **Discord.js Mastery** | Sep 2023 | <img src="https://img.shields.io/badge/Badge-0A66C2?style=flat-square&logo=discord&logoColor=white" /> |
-| **Open Source Contributor** | 2022-Present | <img src="https://img.shields.io/badge/Profile-0A66C2?style=flat-square&logo=github&logoColor=white" /> |
+| **Open Source Contributor** | 2023 – 2026 | <img src="https://img.shields.io/badge/Profile-0A66C2?style=flat-square&logo=github&logoColor=white" /> |
 
 </div>
 
 ---
 
-## 📊 **Activity Overview**
+## 📊 Activity Overview
 
 <div align="center">
 
@@ -183,8 +186,8 @@ FORKS: 35
 <br>
 
 <div align="center">
-  
-| 📅 **Wakatime Stats** | ⏰ **Hours** |
+
+| 📅 Wakatime Stats | ⏰ Hours |
 |:---------------------|:------------:|
 | JavaScript | 450 hrs |
 | Python | 280 hrs |
@@ -196,11 +199,11 @@ FORKS: 35
 
 ---
 
-## 🤝 **Let's Connect**
+## 🤝 Let's Connect
 
 <div align="center">
 
-### **Professional Network**
+### Professional Network
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
@@ -213,17 +216,20 @@ FORKS: 35
 <br>
 
 <div align="center">
-  
+
 ```yaml
-💬 Discord: Abu Al-Hun#
-🌐 Portfolio: abualhun.netlify.app
+💬 Discord:   abualhun
+🌐 Website:   https://abualhoun.dpdns.org/
+📧 Email:     support@abualhoun.dpdns.org
+🐙 GitHub:    github.com/Abu-al-Hun
+📅 Active:    2023 – 2026
 ```
 
 </div>
 
 ---
 
-## 💡 **Quote That Drives Me**
+## 💡 Quote That Drives Me
 
 <div align="center">
 
@@ -235,7 +241,7 @@ FORKS: 35
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -247,7 +253,7 @@ FORKS: 35
 
 ---
 
-## 📞 **Support My Work**
+## 📞 Support My Work
 
 <div align="center">
 
@@ -263,7 +269,7 @@ FORKS: 35
 
 <div align="center">
 
-### **✨ Custom Services Available ✨**
+### ✨ Custom Services Available ✨
 
 | Service | Description | Status |
 |:--------|:------------|:------:|
@@ -279,12 +285,37 @@ FORKS: 35
 ---
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-### **⭐ Star this profile if you found it useful! ⭐**
-
-**© 2023 Abu Al-Hun | All Rights Reserved**
+### ⭐ Star this profile if you found it useful! ⭐
 
 </div>
 
+---
+
+<div align="center">
+
+## © 2026 Abu Al-Hun — All Rights Reserved
+
+**This profile, its content, design, and all associated projects are the exclusive intellectual property of Abu Al-Hun.**
+
+**Active Years: 2023 – 2026**
+
+Unauthorized copying, reproduction, modification, distribution, or use of any part of this work — including but not limited to the layout, code snippets, graphics, and written content — is strictly prohibited without prior written permission from the author.
+
+For licensing, collaboration, or commercial use inquiries, please contact:
+
+```yaml
+📧 Email:     support@abualhoun.dpdns.org
+🌐 Website:   https://abualhoun.dpdns.org/
+💬 Discord:   abualhun
+🐙 GitHub:    github.com/Abu-al-Hun
+📅 Active:    2023 – 2026
+```
+
+**All trademarks, logos, and brand names are the property of their respective owners.**
+
+**Made with ❤️ and lots of ☕ by Abu Al-Hun**
+
+</div>
